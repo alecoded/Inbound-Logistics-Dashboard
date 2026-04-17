@@ -43,7 +43,9 @@ O dashboard apresenta visões críticas para a gestão de Supply Chain:
 <img width="1476" height="815" alt="image" src="https://github.com/user-attachments/assets/28cf3147-557e-4991-9b1c-a207196bcd03" />
 
 
+
 <img width="1483" height="835" alt="image" src="https://github.com/user-attachments/assets/c94ca234-b3f7-4aba-95f0-55f3ee961338" />
+
 
 **Conclusão**
 Este case demonstra a importância da etapa de Data Cleaning. Ao isolar as inconsistências de datas, o dashboard tornou-se uma ferramenta de auditoria, capaz de apontar falhas no registro de dados do ERP, além de fornecer métricas logísticas precisas para a diretoria.
