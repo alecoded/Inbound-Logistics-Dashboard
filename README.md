@@ -38,6 +38,7 @@ O dashboard apresenta visões críticas para a gestão de Supply Chain:
 
 **Acompanhamento de Prazos:** Comparação entre datas reais e DEADLINE (OTIF).
 
+
 **Visualização do Painel** - Primeira Página
 
 <img width="1476" height="815" alt="image" src="https://github.com/user-attachments/assets/28cf3147-557e-4991-9b1c-a207196bcd03" />
