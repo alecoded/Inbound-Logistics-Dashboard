@@ -17,7 +17,7 @@ Um diferencial deste projeto foi a identificação e tratamento de inconsistênc
 
 **Identificação de Erros:** Detectamos registros onde a data de entrega (Delivered) era anterior à data estimada (ETA) ou até mesmo à data de conclusão da produção.
 
-Solução Implementada (Linguagem M): No Power Query, foi criada uma coluna de "Flag de Qualidade" para classificar cada pedido como:
+**Solução Implementada (Linguagem M):** No Power Query, foi criada uma coluna de "Flag de Qualidade" para classificar cada pedido como:
 
 ✅ Válido: Fluxo cronológico correto.
 
