@@ -43,7 +43,8 @@ O dashboard apresenta visões críticas para a gestão de Supply Chain:
 <img width="1476" height="815" alt="image" src="https://github.com/user-attachments/assets/28cf3147-557e-4991-9b1c-a207196bcd03" />
 
 
-**Visualização do Painel** - Segunda Página
+**Visualização do Painel** - Segunda Página 
+
 
 <img width="1483" height="835" alt="image" src="https://github.com/user-attachments/assets/c94ca234-b3f7-4aba-95f0-55f3ee961338" />
 
