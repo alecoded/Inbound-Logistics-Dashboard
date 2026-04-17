@@ -34,7 +34,7 @@ O dashboard apresenta visões críticas para a gestão de Supply Chain:
 
 **Distribuição por Modal:** Comparação de volume e custos entre frete Marítimo (SEA) e Aéreo (AIR).
 
-**Performance de Fornecedores:** Volume e custos por origem (ex: China e Portugal).
+**Performance de Fornecedores:** Volume e custos por origem (ex: China e Brasil).
 
 **Acompanhamento de Prazos:** Comparação entre datas reais e DEADLINE (OTIF).
 
